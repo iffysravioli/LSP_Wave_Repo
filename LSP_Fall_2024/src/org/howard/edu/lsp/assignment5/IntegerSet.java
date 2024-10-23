@@ -5,7 +5,7 @@ import java.util.List;
 
 /**
  * The IntegerSet class represents a collection of unique integers.
- * It provides various set operations like union, intersection, and difference.
+ * It provides various set operations like union, intersection, and difference. IS
  * 
  * Note: The set cannot contain duplicate elements.
  * 
