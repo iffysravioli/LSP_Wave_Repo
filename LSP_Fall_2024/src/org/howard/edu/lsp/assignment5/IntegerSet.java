@@ -6,7 +6,7 @@ import java.util.List;
 
 /**
  * The IntegerSet class represents a collection of unique integers.
- * It provides various set operations like union, intersection, and difference. IS
+ * It provides various set operations like union, intersection, and difference. wave
  */
 public class IntegerSet {
     // Store the set elements in an ArrayList

@@ -1,7 +1,7 @@
 package org.howard.edu.lsp.assignment5;
 
 /**
- * The Driver class is used to test the functionality of the IntegerSet class. IS
+ * The Driver class is used to test the functionality of the IntegerSet class. wave
  */
 
 public class Driver {
